@@ -14,7 +14,7 @@
     "focus-visible": "^5.2.0"
   },
   "devDependencies": {
-    "@types/node": "^14.14.33",
+    "@types/node": "^14.14.34",
     "@types/react": "^17.0.3",
     "autoprefixer": "^10.2.5",
     "postcss": "^8.2.8",

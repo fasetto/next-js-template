@@ -10,9 +10,10 @@
     "paths": {
         "@/*": ["src/*"],
         "@/components/*": ["src/components/*"],
-        "@/styles/*": ["src/styles/*"],
         "@/contexts/*": ["src/contexts/*"],
         "@/hooks/*": ["src/hooks/*"],
+        "@/lib/*": ["src/lib/*"],
+        "@/styles/*": ["src/styles/*"],
     },
     "allowJs": true,
     "skipLibCheck": true,

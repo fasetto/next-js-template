@@ -18,7 +18,7 @@
     "@tailwindcss/jit": "^0.1.5",
     "@types/node": "^14.14.35",
     "@types/react": "^17.0.3",
-    "autoprefixer": "^10.2.5",
+    "autoprefixer": "^10.2.6",
     "postcss": "^8.2.8",
     "postcss-focus-visible": "^5.0.0",
     "tailwindcss": "^2.0.4",

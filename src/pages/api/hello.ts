@@ -2,6 +2,6 @@
 
 import { NextApiRequest, NextApiResponse } from "next"
 
-export default (req: NextApiRequest, res: NextApiResponse) => {
+export default function Hello(req: NextApiRequest, res: NextApiResponse) {
     res.status(200).json({ name: 'John Doe' })
 }

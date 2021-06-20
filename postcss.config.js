@@ -4,4 +4,4 @@ module.exports = {
     autoprefixer: {},
     "postcss-focus-visible": {},
   },
-}
+};

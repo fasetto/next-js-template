@@ -11,7 +11,7 @@ module.exports = {
   darkMode: "class",
   theme: {
     fontFamily: {
-      sans: ["Inter", ...fontFamily.sans],
+      sans: ["var(--font-inter)", ...fontFamily.sans],
     },
     colors: {
       transparent: "transparent",

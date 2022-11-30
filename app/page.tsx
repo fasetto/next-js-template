@@ -1,13 +1,8 @@
-import Head from "next/head";
+import "@/styles/global.css";
 
 export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center min-h-screen py-2">
-      <Head>
-        <title>Next JS Template</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
       <main className="flex flex-col items-center flex-1 mt-8 px-20 text-center">
         <h1 className="text-5xl font-bold">
           Welcome to{" "}

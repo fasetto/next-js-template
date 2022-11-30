@@ -2,7 +2,7 @@ import { ButtonHTMLAttributes } from "react";
 import clsx from "clsx";
 
 type Props = {
-  variant: keyof typeof variantStyles;
+  variant?: keyof typeof variantStyles;
   children?: React.ReactNode;
 };
 

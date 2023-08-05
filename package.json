@@ -16,10 +16,10 @@
   "dependencies": {
     "@next/font": "^13.3.1",
     "@tailwindcss/forms": "^0.5.3",
-    "clsx": "^1.2.1",
     "next": "13.3.1",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "tailwind-variants": "^0.1.13"
   },
   "devDependencies": {
     "@storybook/addon-a11y": "^7.0.6",
